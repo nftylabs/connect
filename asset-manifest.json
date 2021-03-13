@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/connect/static/css/main.9dfcba51.chunk.css",
-    "main.js": "/connect/static/js/main.df9579f1.chunk.js",
-    "main.js.map": "/connect/static/js/main.df9579f1.chunk.js.map",
-    "runtime-main.js": "/connect/static/js/runtime-main.a3ca9dad.js",
-    "runtime-main.js.map": "/connect/static/js/runtime-main.a3ca9dad.js.map",
-    "static/js/2.e836c630.chunk.js": "/connect/static/js/2.e836c630.chunk.js",
-    "static/js/2.e836c630.chunk.js.map": "/connect/static/js/2.e836c630.chunk.js.map",
-    "static/js/3.68dc1a92.chunk.js": "/connect/static/js/3.68dc1a92.chunk.js",
-    "static/js/3.68dc1a92.chunk.js.map": "/connect/static/js/3.68dc1a92.chunk.js.map",
+    "main.css": "/connect/static/css/main.8ab4254d.chunk.css",
+    "main.js": "/connect/static/js/main.9dd120b4.chunk.js",
+    "main.js.map": "/connect/static/js/main.9dd120b4.chunk.js.map",
+    "runtime-main.js": "/connect/static/js/runtime-main.6989b481.js",
+    "runtime-main.js.map": "/connect/static/js/runtime-main.6989b481.js.map",
+    "static/js/2.90adec40.chunk.js": "/connect/static/js/2.90adec40.chunk.js",
+    "static/js/2.90adec40.chunk.js.map": "/connect/static/js/2.90adec40.chunk.js.map",
+    "static/js/3.6ce09236.chunk.js": "/connect/static/js/3.6ce09236.chunk.js",
+    "static/js/3.6ce09236.chunk.js.map": "/connect/static/js/3.6ce09236.chunk.js.map",
     "index.html": "/connect/index.html",
-    "static/css/main.9dfcba51.chunk.css.map": "/connect/static/css/main.9dfcba51.chunk.css.map",
-    "static/js/2.e836c630.chunk.js.LICENSE.txt": "/connect/static/js/2.e836c630.chunk.js.LICENSE.txt",
+    "static/css/main.8ab4254d.chunk.css.map": "/connect/static/css/main.8ab4254d.chunk.css.map",
+    "static/js/2.90adec40.chunk.js.LICENSE.txt": "/connect/static/js/2.90adec40.chunk.js.LICENSE.txt",
     "static/media/bonafide-color.24982318.svg": "/connect/static/media/bonafide-color.24982318.svg",
     "static/media/bonafide-gray.6326a57b.svg": "/connect/static/media/bonafide-gray.6326a57b.svg",
     "static/media/eth-option-1.dc35b138.svg": "/connect/static/media/eth-option-1.dc35b138.svg",
@@ -29,9 +29,9 @@
     "static/media/wallet-connect-gray.c2ea8007.svg": "/connect/static/media/wallet-connect-gray.c2ea8007.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a3ca9dad.js",
-    "static/js/2.e836c630.chunk.js",
-    "static/css/main.9dfcba51.chunk.css",
-    "static/js/main.df9579f1.chunk.js"
+    "static/js/runtime-main.6989b481.js",
+    "static/js/2.90adec40.chunk.js",
+    "static/css/main.8ab4254d.chunk.css",
+    "static/js/main.9dd120b4.chunk.js"
   ]
 }
